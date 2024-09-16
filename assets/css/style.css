@@ -1088,7 +1088,7 @@ h3 {
 /* start sign-up  */
 .sign-up {
   padding: var(--section-padding);
-  background-image: url("/images/photo-sign-up.png");
+  background-image: url("../images/photo-sign-up.png");
   background-repeat: no-repeat;
   background-position: left;
   background-size: 600px;
@@ -1145,7 +1145,7 @@ h3 {
 /* start sign-up  */
 .log-in {
   padding: 200px 0;
-  background-image: url("/images/photo-sign-up.png");
+  background-image: url("../images/photo-sign-up.png");
   background-repeat: no-repeat;
   background-position: left;
   background-size: 600px;
